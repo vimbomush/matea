@@ -1,0 +1,51 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('capture.png'); 
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+  .container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6); 
+    padding: 40px;
+    border-radius: 10px;
+  }
+  
+
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+
+  .content {
+    margin-top: 20px;
+  }
+  
+  .about-text, .team {
+    margin: 20px 0;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+
+
+
+
+
